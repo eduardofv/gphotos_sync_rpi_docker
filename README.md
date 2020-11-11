@@ -7,6 +7,7 @@
 - Create two dirs: `storage` and `config`
 - Check instrunctions on how to [Create a Google Cloud project, enable the Photos Library API and create an OAuth client ID](https://www.linuxuprising.com/2019/06/how-to-backup-google-photos-to-your.html)
 	- Put `client_secret.json` on `config/`
+- Add authorization key when prompted
 
 
 ## Resources

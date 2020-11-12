@@ -19,3 +19,4 @@ https://github.com/gilesknap/gphotos-sync
 
 https://www.linuxuprising.com/2019/06/how-to-backup-google-photos-to-your.html
 
+https://ubuntu.com/blog/safely-backup-google-photos
